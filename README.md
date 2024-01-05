@@ -11,6 +11,7 @@
 
 ![image](https://github.com/BroLetsCodeIt/responsive-social-media-app/assets/113767803/e25cd631-65b7-4f01-988f-cd13e787ee8e)
 
+- ### Open Editor e.g vscode .
 - ### Make new Branch.
 - ### Follow the naming convention.
 ![image](https://github.com/BroLetsCodeIt/responsive-social-media-app/assets/113767803/6e78d025-a72a-432a-9953-e216ba379657)
