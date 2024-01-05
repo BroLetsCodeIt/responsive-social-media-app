@@ -17,6 +17,8 @@
 ![image](https://github.com/BroLetsCodeIt/responsive-social-media-app/assets/113767803/6e78d025-a72a-432a-9953-e216ba379657)
 
 - ### Start working on issue.
+- ### AFter solving issue properly , follow the commands shown below.
+  
 ```sh
 git add
 ```
